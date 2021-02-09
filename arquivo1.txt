@@ -3,3 +3,7 @@ Tivemos dificuldades, mas superamos.
 O professor esqueceu a senha
 Mas hoje sei GIT
 Estou vendo as diferenças entre estágios do repositório git
+bla
+bla
+bla
+bla
