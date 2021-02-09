@@ -1,1 +1,3 @@
 Novo texto
+Só que agora, o arquivo está maior
+Vamos ver a diferença do push
